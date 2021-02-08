@@ -12,17 +12,21 @@
 
 ### App Walkthough GIF
 
+![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
 
-<img src="https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif
-" width=250><br>
+
+### GIF Link 
+[Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
+
 
 ### Notes
 
 Describe any challenges encountered while building the app.
+
+Had to change the API of AVD manager to 29.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 
-![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
