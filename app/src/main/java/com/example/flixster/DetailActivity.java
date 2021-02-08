@@ -26,7 +26,7 @@ import static com.example.flixster.R.id.tvTitle;
 
 public class DetailActivity extends YouTubeBaseActivity {
 
-    private static final String YOUTUBE_API_KEY = "AIzaSyCmg8vNdFVF1PdVVqkv0XHEZCkNFkuzt6s";
+    private static final String YOUTUBE_API_KEY = "add your api";
     public static final String VIDEOS_URL = "https://api.themoviedb.org/3/movie/%d/videos?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
 
     TextView tvTitle;
