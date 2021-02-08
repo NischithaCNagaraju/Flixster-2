@@ -11,7 +11,6 @@
 
 
 ### App Walkthough GIF
-![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
 
 
 <img src="![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
@@ -24,3 +23,6 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
+
+![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
