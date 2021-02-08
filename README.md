@@ -11,9 +11,11 @@
 
 
 ### App Walkthough GIF
+![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
 
 
-<img src="https://submissions.us-east-1.linodeobjects.com/android_university/vOT9mlor.gif" width=250><br>
+<img src="![Flixster-part2](https://user-images.githubusercontent.com/61173798/107174595-79ca5b80-697f-11eb-8ead-b73899da65d5.gif)
+" width=250><br>
 
 ### Notes
 
